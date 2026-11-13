@@ -1,0 +1,4 @@
+# Changes to these workflows require review from @pmbauer.
+# (Enable "Require review from Code Owners" in branch protection/rulesets for this to be enforced.)
+/.github/workflows/integration-trigger.yml          @pmbauer
+/.github/workflows/public-integration-doorbell.yml  @pmbauer
